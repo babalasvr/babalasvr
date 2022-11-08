@@ -1,14 +1,16 @@
 ## Olá! Eu sou Gabriel Batista 👋
+
++ Estudante de Desenvolvimento Web
++ Estou em busca da minha primeira oportunidade no mercado de desenvolvedor, tenho técnico completo e graduação incompleta além de estudar autônomo por 5 meses. Sou uma pessoa proativa e com muita vontade de desenvolver meus conhecimentos e mentalidade.
++ Soft Skills: Extremamente motivado, detalhista, preocupado em produzir trabalhos de qualidade, fascinado por inovação e tecnologia, sendo confiável e organizado. Estando sempre em busca de conhecimentos que possibilitem expandir minhas áreas de conhecimento e habilidades.
+
 <div>
   <a href="https://github.com/babalasvr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babalasvr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babalasvr&layout=compact&langs_count=7&theme=highcontrast"/></a>
 </div>
 
-+ Estudante de Desenvolvimento Web
-+ Estou em busca da minha primeira oportunidade no mercado de desenvolvedor, tenho técnico completo e graduação incompleta além de estudar autônomo por 5 meses. Sou uma pessoa proativa e com muita vontade de desenvolver meus conhecimentos e mentalidade.
-+ Soft Skills: Extremamente motivado, detalhista, preocupado em produzir trabalhos de qualidade, fascinado por inovação e tecnologia, sendo confiável e organizado. Estando sempre em busca de conhecimentos que possibilitem expandir minhas áreas de conhecimento e habilidades.
-+ Hoje tenho conhecimentos: 
+ ###  Hoje tenho conhecimentos: 
 + Avançados: html, css e JavaScript, git, github 
 + Medianos/Estudando: React e Node
 
