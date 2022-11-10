@@ -12,7 +12,7 @@
 
  ###  Hoje tenho conhecimentos: 
 + Avançados: html, css e JavaScript, git, github 
-+ Medianos/Estudando: React e Node
++ Medianos/Estudando: React e Node.js
 
 
 ## Hard Skills
